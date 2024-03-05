@@ -1,0 +1,27 @@
+{
+  "name": "sum-tanishafroeliger",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-tanishafroeliger": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanishafroeliger/sum-tanishafroeliger"
+  },
+  "homepage": "https://twitter.com/truong_ngu38565",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "tanishafroeliger",
+  "license": "MIT"
+}
